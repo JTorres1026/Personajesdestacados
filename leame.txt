@@ -1,0 +1,10 @@
+La solucion planteada para este caso es una landing page en la cual 
+se muestra un ecabezado con el título "Personajes Destacados de Guatemala".
+
+En este caso son 3 personajes los que se incluyeron en la página, se muestran 
+imagenes e información acerca de sus logros y aportes más importantes para que 
+el usuario pueda conocer su historia.
+
+En la parte inferior de la página aparece un formulario en la cual el usuario puede
+enviar un mensaje dirigido a alguno de los personajes seleccionando a quien va dirigido 
+el mismo, así como detallando la fecha, su nombre completo y por supuesto el mensaje.

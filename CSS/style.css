@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(224, 224, 224);
+    
+}
+
+.contenedorhead{
+    width: 100%;
+}
+
+
+#fondotitulo{
+    height: 700px;
+    width: 100%;
+    position: absolute;
+    
+}
+
+#capa{
+
+    height: 700px;
+    width: 100%;
+    background-color: black;
+    opacity:0.7 ;
+    position: absolute;
+    z-index: 1;
+}
+
+
+
+h1{
+    color: rgb(255, 255, 255);
+    position: absolute ;
+    z-index: 2;
+    width: 100%;
+    text-align: center;
+    margin-top:300px ;
+    font-size: 60px;
+    
+
+}
+
+.contenido{
+    
+    width: 100%;
+    margin-top: 700px;
+    position: absolute;
+    z-index: 1;
+    
+    
+}
+
+.contenido h2{
+    width: 100%;
+    text-align: center;
+    font-family: Playfair Display;
+}
+
+#imgerick{
+    margin-left: 480px;
+}
+
+
+.descripcion{
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: Playfair Display ;
+    
+}
+
+.imagenes{
+    width: 100%;
+    max-width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    align-content: center;
+}
+
+/*Carlos mérida*/
+
+#imgcarlos{
+
+    margin-left: 480px;
+}
+
+/*Rodolfo*/
+
+#imgrodolfo{
+
+    margin-left: 500px;
+    width: 300px;
+    height: 450px;
+
+}
+
+/*Mensajes*/
+
+.cuadro{
+
+    width: 200px;
+    border-radius: 4px;
+}
+
+.cuadrom{
+
+    width: 500px;
+    border-radius: 4px;
+}
+
+.boton{
+    font-family: Playfair Display;
+}
+
+
+
+
+
+
